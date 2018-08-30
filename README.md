@@ -9,5 +9,5 @@ In order to use this configuration you must have the following installed:
 # Usage
 1. Clone repository:
 ```
-git clone ...
+git clone https://github.com/jhsc/web-proxy-base.git
 ```
