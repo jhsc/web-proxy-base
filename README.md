@@ -11,3 +11,13 @@ In order to use this configuration you must have the following installed:
 ```
 git clone https://github.com/jhsc/web-proxy-base.git
 ```
+
+2. Create docker network
+```
+docker netwrok create webproxy
+```
+
+3. Start proxy
+```
+docker-compose up -d
+```
